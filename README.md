@@ -28,7 +28,7 @@ step.5:Run the command.
 
 
 
-# If you liked it you can follow me on twitter for more python projects and latest updates in Technology.
+# If you liked it you can follow me on twitter(@I_am_Anchit) for more python projects and latest updates in Technology.
 
 
 # Thanks and keep coding.
