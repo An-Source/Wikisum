@@ -8,14 +8,14 @@ To install this follow the easy steps below:
 
 step.1:Download wikisum repo.
 
-https://github.com/An-Source/Wikisum.git
+    https://github.com/An-Source/Wikisum.git
 
 step.2:Downloading the dependencies.
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 step.3:Go to the downloaded wikisum folder.
 
 step.4:Run the command.
 
-python3 wikisum.py
+    python3 wikisum.py
