@@ -25,3 +25,10 @@ step.4:Go to the downloaded wikisum folder.
 step.5:Run the command.
 
     python3 wikisum.py
+
+
+
+# If you liked it you can follow me on twitter for more python projects and latest updates in Technology.
+
+
+# Thanks and keep coding.
