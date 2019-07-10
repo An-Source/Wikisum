@@ -14,13 +14,14 @@ step.2:Download wikisum repo.
 
     git clone  https://github.com/An-Source/Wikisum.git
 
-step.3:Downloading the dependencies.
-
-    pip install -r requirements.txt
-
-step.4:Go to the downloaded wikisum folder.
+step.3:Go to the downloaded wikisum folder.
    
     cd Wikisum
+
+
+step.4:Downloading the dependencies.
+
+    pip install -r requirements.txt
 
 step.5:Run the command.
 
